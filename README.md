@@ -6,5 +6,5 @@ All the downloaded data is stored in the data folder inside the current director
 If the folder is empty, the data will be automatically downloaded, otherwise the data inside the folder is used.
 The data can also be stored directly into the data folder in JSON format other than using a link.
 <br>
-MAX_DISTANCE - Distance that will be used to measure home location in meters
+MAX_DISTANCE - Distance that will be used to measure home location in meters <br>
 URL - link from which the user data will be extracted (without the key value)
